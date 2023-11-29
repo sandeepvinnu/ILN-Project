@@ -10,10 +10,9 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       <div className='nav-logo'>
-        <img src={logo} alt=''/>
-        
-        
-
+        <Link to='/'>
+          <img src={logo} alt=''/>
+        </Link>
       </div>
       <ul className='nav-menu'>
         <li onClick={()=>{setMenu('home')}}><Link to='/' style={{textDecoration:'none', color: 'white' }}>HOME</Link> {menu==='home'? <hr/>:<></>} </li>
