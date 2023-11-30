@@ -1,10 +1,10 @@
 import React from 'react'
 import UnderConstruction from '../Components/UnderConstruction/UnderConstruction'
 
-const AllCourses = () => {
+const Courses = () => {
   return (
     <UnderConstruction />
   )
 }
 
-export default AllCourses
+export default Courses

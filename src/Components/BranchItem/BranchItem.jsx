@@ -1,11 +1,14 @@
 import React from 'react';
 import './BranchItem.css';
+import {Link} from 'react-router-dom';
 
-const BranchItem = ({ branchTitle }) => {
+const BranchItem = ({ branchTitle, url }) => {
   return (
-    <div className='branch-item'>
-      <p>{branchTitle}</p>
-    </div>
+    <Link to='/Category/:id/Courses'>
+      <div className='branch-item'>
+        <p>{branchTitle}</p>
+      </div>
+    </Link>
   );
 };
 

@@ -5,6 +5,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Home from './Pages/Home'
 import Category from './Pages/Category'
 import FAQ from './Pages/FQA'
+import Courses from './Pages/Courses'
 import AllCourses from './Pages/AllCourses'
 import Blog from './Pages/Blog'
 import Footer from './Components/Footer/Footer'
@@ -19,6 +20,7 @@ const App = () => {
        <Routes>
         <Route path='/' element = {<Home/>}/>
         <Route path='/Category' element={<Category/>}/> 
+        <Route path='/Category/:url/Courses' element={<Courses/>}/> 
         <Route path='/Allcourse' element={<AllCourses/>}/> 
         <Route path='/FQA' element={<FAQ/>}/> 
         <Route path='/Blog' element={<Blog/>}/> 
