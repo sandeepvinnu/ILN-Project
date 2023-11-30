@@ -1,11 +1,13 @@
 {
-    "courses": [
+    "courses": 
+    [
         {
             "id": "1",
             "title": "Course Title",
             "image": "Course Logo",
-            "branch": "Computer Science",
-            "content": {
+            "url": "CSE",
+            "content": 
+            {
                 "resources": ["resource 1", "resource 2", "resource 3"],
                 "pdfs": [{"topic1":"topic1PDF"}],
                 "links": [""]

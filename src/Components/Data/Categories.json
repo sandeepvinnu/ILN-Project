@@ -4,129 +4,122 @@
   "categories": 
   [
     {
-      "id": 1,
+      "id": "1",
       "title": "ENGINEERING",
       "tagLine": "My buildings will be my legacy",
       "branches": 
       [
         {
           "id": "1",
-          "branchTitle": "Computer Science",
+          "branchTitle": "Computer Science Engineering",
           "url": "CSE"
         },
         {
           "id": "2",
-          "branchTitle": "Computer"
+          "branchTitle": "Electrical and Electronical Engineering",
+          "url": "EEE"
         },
         {
           "id": "3",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Electrical and Communication Engineering",
+          "url": "ECE"
         },
         {
           "id": "4",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Mechanical Engineering",
+          "url": "MECH"
         },
         {
           "id": "5",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Civil Engineering",
+          "url": "CIVIL"
         },
         {
           "id": "6",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Chemical Engineering",
+          "url": "CHEM"
         },
         {
           "id": "7",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Aeronautical Engineering",
+          "url": "AE"
         },
         {
           "id": "8",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Aerospace Engineering",
+          "url": "AERO"
         }
       ]
     },
     {
-      "id": 1,
-      "title": "ENGINEERING",
-      "tagLine": "My buildings will be my legacy",
+      "id": "2",
+      "title": "PRIMARY EDUCATION",
+      "tagLine": "Education is the movement from darkness to light",
       "branches": 
       [
         {
           "id": "1",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 1",
+          "url": "G-1"
         },
         {
           "id": "2",
-          "branchTitle": "Science"
+          "branchTitle": "Grade 2",
+          "url": "G-2"
         },
         {
           "id": "3",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 3",
+          "url": "G-3"
         },
         {
           "id": "4",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 4",
+          "url": "G-4"
         },
         {
           "id": "5",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "6",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "7",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "8",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 5",
+          "url": "G-5"
         }
       ]
     },
     {
-      "id": 1,
-      "title": "ENGINEERING",
-      "tagLine": "My buildings will be my legacy",
+      "id": "3",
+      "title": "SECONDARY EDUCATION",
+      "tagLine": "Learning leads to growth",
       "branches": 
       [
         {
           "id": "1",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 6",
+          "url": "G-6"
         },
         {
           "id": "2",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 7",
+          "url": "G-7"
         },
         {
           "id": "3",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 8",
+          "url": "G-8"
         },
         {
           "id": "4",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 9",
+          "url": "G-9"
         },
         {
           "id": "5",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "6",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "7",
-          "branchTitle": "Computer Science"
-        },
-        {
-          "id": "8",
-          "branchTitle": "Computer Science"
+          "branchTitle": "Grade 10",
+          "url": "G-10"
         }
       ]
     },
     {
-      "id": 1,
-      "title": "ENGINEERING",
+      "id": "4",
+      "title": "POST-SECONDARY EDUCATION",
       "tagLine": "My buildings will be my legacy",
       "branches": 
       [
