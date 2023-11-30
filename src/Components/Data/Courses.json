@@ -6,12 +6,150 @@
             "title": "Course Title",
             "image": "Course Logo",
             "url": "CSE",
-            "content": 
-            {
-                "resources": ["resource 1", "resource 2", "resource 3"],
-                "pdfs": [{"topic1":"topic1PDF"}],
-                "links": [""]
-            }
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "title": "Course Title",
+            "image": "Course Logo",
+            "url": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
