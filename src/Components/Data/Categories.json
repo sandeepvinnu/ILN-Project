@@ -1,0 +1,169 @@
+
+
+{
+  "categories": 
+  [
+    {
+      "id": 1,
+      "title": "ENGINEERING",
+      "tagLine": "My buildings will be my legacy",
+      "branches": 
+      [
+        {
+          "id": "1",
+          "branchTitle": "Computer Science",
+          "url": "CSE"
+        },
+        {
+          "id": "2",
+          "branchTitle": "Computer"
+        },
+        {
+          "id": "3",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "4",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "5",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "6",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "7",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "8",
+          "branchTitle": "Computer Science"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "ENGINEERING",
+      "tagLine": "My buildings will be my legacy",
+      "branches": 
+      [
+        {
+          "id": "1",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "2",
+          "branchTitle": "Science"
+        },
+        {
+          "id": "3",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "4",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "5",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "6",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "7",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "8",
+          "branchTitle": "Computer Science"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "ENGINEERING",
+      "tagLine": "My buildings will be my legacy",
+      "branches": 
+      [
+        {
+          "id": "1",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "2",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "3",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "4",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "5",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "6",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "7",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "8",
+          "branchTitle": "Computer Science"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "ENGINEERING",
+      "tagLine": "My buildings will be my legacy",
+      "branches": 
+      [
+        {
+          "id": "1",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "2",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "3",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "4",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "5",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "6",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "7",
+          "branchTitle": "Computer Science"
+        },
+        {
+          "id": "8",
+          "branchTitle": "Computer Science"
+        }
+      ]
+    }
+  ]
+}
+  
