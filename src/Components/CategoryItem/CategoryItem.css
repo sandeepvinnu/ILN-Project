@@ -12,11 +12,16 @@ body {
     width: 75vw;
     margin: 50px;
     border-radius: 30px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(100px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 10px solid rgba(22, 231, 231, 0.18);
+    box-shadow: 0 8px 32px 0 rgb(0, 0, 0,0.37);
 }
 
 .title {
     font-family: 'Bebas Neue', 'sans serif'!important;
-    color: #000;
+    color: white;
     font-weight: bolder;
     font-size: 60px;
     padding: 0;
@@ -26,7 +31,7 @@ body {
   
 .tag-line {
     font-family: 'ROBOTO'!important;
-    color: #000;
+    color: white;
     font-weight: bold;
     font-size: 20px;
     padding: 0;
