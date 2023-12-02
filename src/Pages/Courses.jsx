@@ -1,11 +1,17 @@
 import React from 'react'
-import UnderConstruction from '../Components/UnderConstruction/UnderConstruction'
+// import UnderConstruction from '../Components/UnderConstruction/UnderConstruction'
 // import Corses from '../Components/Data/Courses.json'
 
-const Courses = () => {
+const Courses = ({location}) => {
+  
+  const {state} = location;
+
   return (
-    
-    <UnderConstruction />
+    <div>
+      <h1>Page 2</h1>
+      <p>Data from Branches page: {state && state.data}</p>
+    </div>
+    // <UnderConstruction />
   )
 }
 

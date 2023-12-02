@@ -1,8 +1,7 @@
 
 
 .branch-item {
-    background-color: aquamarine;
-    color: azure;
+    background-color: lightcyan;
     height: 200px;
     width: 200px;
     border-radius: 30px;
@@ -11,4 +10,10 @@
     align-items: center;
     margin: 20px;
     font-size: large;
+}
+
+.branch-item p {
+    color: chartreuse!important;
+    text-decoration: none;
+
 }
