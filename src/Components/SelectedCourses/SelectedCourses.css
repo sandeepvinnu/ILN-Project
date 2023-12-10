@@ -1,0 +1,12 @@
+
+
+
+
+.courses-container {
+    margin: 30px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}

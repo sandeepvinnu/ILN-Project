@@ -1,6 +1,11 @@
 
 .courses-list-container {
-    padding: 20% 30%;
+    padding: 5% 3%;
     background-color: aliceblue;
     color: black;
+}
+
+.main-heading {
+    text-align: center;
+    font-family: Verdana, Times, serif;;
 }

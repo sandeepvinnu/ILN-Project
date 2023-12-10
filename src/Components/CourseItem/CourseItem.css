@@ -1,0 +1,15 @@
+
+
+.course-item-container {
+    margin: 10px;
+    padding: 20px;
+    height: 120px;
+    width: 120px;
+    background-color: bisque;
+    border-radius: 300px;
+}
+
+
+.course-img {
+    height: 80px;
+}
