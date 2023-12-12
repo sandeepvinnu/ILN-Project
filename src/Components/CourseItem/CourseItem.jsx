@@ -1,15 +1,18 @@
 // CourseItem.jsx
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './CourseItem.css';
 
 
-const CourseItem = ({ title, image, branchUrl, topics }) => {
+const CourseItem = ({branchUrl, title, image, topics }) => {
 
   return (
-    <div className='course-item-container'>
-      <img className='course-img' src={image} alt={title} />
-      <h1>{title}</h1>
-    </div>
+    <Link to={`/Category/${branchUrl}/${title}`}>
+      <div className='course-item-container'>
+        <img className='course-img' src={image} alt={title} />
+        <h1>{title}</h1>
+      </div>
+    </Link>
   );
 };
 

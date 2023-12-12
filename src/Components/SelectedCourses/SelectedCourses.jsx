@@ -21,7 +21,7 @@ const SelectedCourses = (props) => {
       {filteredCourses.length > 0 ? (
         <div className='courses-container'>
             {filteredCourses.map(course => (
-              <CourseItem key={course.id} {...course} />
+              <CourseItem key={course.id} {...course} branchUrl={branchUrl} />
             ))}
         </div>
       ) : (

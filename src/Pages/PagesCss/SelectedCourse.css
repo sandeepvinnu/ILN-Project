@@ -1,0 +1,15 @@
+
+
+
+
+.selected-course-container {
+    padding: 5% 3%;
+    background-color: aliceblue;
+    color: black;
+}
+
+.selected-course-container h1 {
+    text-align: center;
+    font-family: Verdana, Times, serif;
+    color: #000;
+}
