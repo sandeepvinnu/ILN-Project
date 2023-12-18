@@ -1,0 +1,70 @@
+
+
+
+.content-bg-container {
+    min-height: 100vh;
+    background-color: darkkhaki !important;
+    color: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    font-weight: bolder !important;
+    font-size: 100px !important;
+    color: #000;
+    font: 1em sans-serif;
+}
+
+
+
+
+/* Content CSS Starts from HERE */
+
+.course-topics-container {
+    background-color: #1e1e1e; /* Dark background color */
+    color: #ffffff; /* Light text color */
+    padding: 20px;
+  }
+  
+  .header {
+    color: #61dafb; /* React blue color for the header */
+  }
+  
+  .topics-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .topic-item {
+    margin-bottom: 20px;
+  }
+  
+  .topic-name {
+    color: #78d7ff; /* Light blue color for topic names */
+  }
+  
+  .resources-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .resource-item {
+    margin-top: 10px;
+  }
+  
+  .resource-link {
+    color: #bb86fc; /* Purple color for resource links */
+    text-decoration: none;
+    transition: color 0.3s ease;
+  
+    &:hover {
+      color: #6200ea; /* Darker purple on hover */
+    }
+  }
+  
+
+
+/* Content CSS Starts from HERE */

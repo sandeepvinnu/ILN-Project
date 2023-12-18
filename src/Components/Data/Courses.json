@@ -2,7 +2,7 @@
     "courses": 
     [
         {
-            "id": "1",
+            "id": "1111",
             "title": "Python",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
             "branchUrl": "CSE",
@@ -10,7 +10,7 @@
             [
                 {
                     "id": "1",
-                    "topic": "Topic",
+                    "subHeading": "sub-Heading",
                     "content": 
                     {
                         "Resources": 
@@ -80,7 +80,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": "2222",
             "title": "HTML",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
             "branchUrl": "CSE",
@@ -158,7 +158,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": "3333",
             "title": "CSS",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
             "branchUrl": "CSE",
@@ -236,7 +236,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": "4444",
             "title": "C++",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
             "branchUrl": "EEE",
@@ -314,7 +314,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": "5555",
             "title": "Java",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
             "branchUrl": "ECE",
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "id": "1",
+            "id": "6666",
             "title": "JavaScript",
             "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
             "branchUrl": "EEE",
