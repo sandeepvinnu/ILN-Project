@@ -123,7 +123,6 @@ const HTML = () => {
   
   return (
     <div className='content-bg-container'>
-      <h1 className='heading'>HTML COURSE</h1>
       {HTMLTopics()}
     </div>
   );

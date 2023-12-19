@@ -1,7 +1,7 @@
 
 
 
-.content-bg-container {
+/* .content-bg-container {
     min-height: 100vh;
     background-color: darkkhaki !important;
     color: blue;
@@ -16,7 +16,7 @@
     font-size: 100px !important;
     color: #000;
     font: 1em sans-serif;
-}
+} */
 
 
 
@@ -27,15 +27,23 @@
     background-color: #1e1e1e; /* Dark background color */
     color: #ffffff; /* Light text color */
     padding: 20px;
+    margin: 0px;
   }
   
   .header {
-    color: #61dafb; /* React blue color for the header */
+    background-image: linear-gradient(to right, #f80b92, #86A8E7, #5FFBF1) !important;  /* React blue color for the header */
+    color: transparent !important;
+    -webkit-background-clip: text !important; /* For Safari/Chrome/iOS */
+    background-clip: text !important;
+    font-size: 6rem;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
   }
   
   .topics-list {
     list-style-type: none;
     padding: 0;
+    padding-left: 10% !important;
   }
   
   .topic-item {
