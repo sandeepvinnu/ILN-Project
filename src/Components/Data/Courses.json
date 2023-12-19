@@ -468,6 +468,84 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "7777",
+            "title": "CSharp",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg",
+            "branchUrl": "MECH",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

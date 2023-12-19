@@ -1,0 +1,24 @@
+/* BlogPage.css */
+
+.blog-page-container {
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .blog-entry {
+    margin-bottom: 20px;
+  }
+  
+  .blog-date {
+    color: #888;
+  }
+  
+  .not-found-container {
+    background-color: #1a1a1a;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Add more styles based on your design preferences */
+  

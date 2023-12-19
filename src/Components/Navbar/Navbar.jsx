@@ -18,7 +18,7 @@ const Navbar = () => {
         <li onClick={()=>{setMenu('home')}}><Link to='/' style={{textDecoration:'none', color: 'white' }}>HOME</Link> {menu==='home'? <hr/>:<></>} </li>
         <li onClick={()=>{setMenu('Category')}}><Link to='/Category' style={{textDecoration:'none', color: 'white'}}>CATEGORY</Link> {menu==='Category'? <hr/>:<></>} </li>
         <li onClick={()=>{setMenu('Allcourse')}}><Link to='/Allcourse' style={{textDecoration:'none', color: 'white'}}>ALL COURSES</Link> {menu==='Allcourse'? <hr/>:<></>} </li>
-        <li onClick={()=>{setMenu('FQA')}}><Link to='/FQA' style={{textDecoration:'none', color: 'white'}}>FAQ</Link> {menu==='FQA'? <hr/>:<></>} </li>
+        <li onClick={()=>{setMenu('FAQs')}}><Link to='/FAQs' style={{textDecoration:'none', color: 'white'}}>FAQs</Link> {menu==='FAQs'? <hr/>:<></>} </li>
         <li onClick={()=>{setMenu('Blog')}}><Link to='/Blog' style={{textDecoration:'none', color: 'white'}}>BLOG</Link> {menu==='Blog'? <hr/>:<></>} </li>
         
 

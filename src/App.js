@@ -4,7 +4,7 @@ import { BrowserRouter,Route, Routes } from 'react-router-dom'
 import Navbar from './Components/Navbar/Navbar'
 import Home from './Pages/Home'
 import Category from './Pages/Category'
-import FAQ from './Pages/FQA'
+import FAQs from './Pages/FAQs'
 import Courses from './Pages/Courses'
 import AllCourses from './Pages/AllCourses'
 import Blog from './Pages/Blog'
@@ -25,7 +25,7 @@ const App = () => {
         <Route path='/Category/:url' element={<Courses/>}/> 
         <Route path='/Category/:branchUrl/:title' element={<SelectedCourse/>}/>
         <Route path='/Allcourse' element={<AllCourses/>}/> 
-        <Route path='/FQA' element={<FAQ/>}/> 
+        <Route path='/FAQs' element={<FAQs/>}/> 
         <Route path='/Blog' element={<Blog/>}/> 
         <Route path='/Login' element={<Login/>}/>
        </Routes>
