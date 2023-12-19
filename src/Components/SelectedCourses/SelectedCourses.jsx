@@ -28,7 +28,6 @@ const SelectedCourses = (props) => {
         // If no courses are found, render a message
         <p>No courses found for the specified branch.</p>
       )}
-
     </div>
   );
 };

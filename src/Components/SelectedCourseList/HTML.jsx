@@ -91,7 +91,6 @@ const HTML = () => {
     };
     
   
-  
     return (
       <div className="course-topics-container">
         <h1 className="header">HTML Topics</h1>
