@@ -546,6 +546,396 @@
                     }
                 }
             ]
+        },
+        {
+            "id": "8888",
+            "title": "Linux",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+            "branchUrl": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "9999",
+            "title": "NodeJS",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+            "branchUrl": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1001",
+            "title": "PHP",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg",
+            "branchUrl": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1002",
+            "title": "MySQL",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg",
+            "branchUrl": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "1003",
+            "title": "CP",
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
+            "branchUrl": "CSE",
+            "topics": 
+            [
+                {
+                    "id": "1",
+                    "subHeading": "sub-Heading",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "topic": "Topic",
+                    "content": 
+                    {
+                        "Resources": 
+                        [
+                            "Array of Resources we have to provide Here"
+                        ],
+                        "videos": 
+                        [
+                            "Array of Video Links we have to provide Here"
+                        ],
+                        "links":
+                        [
+                            "Array of Related Links we have to provide Here"
+                        ],
+                        "pdfs":
+                        [
+                            "Array of PDFs we have to provide Here"
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }

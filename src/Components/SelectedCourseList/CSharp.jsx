@@ -8,70 +8,109 @@ const CSharp = () => {
   
   const CSharpTopics = () => {
     const csharpData = {
-      "python": {
+      "csharp": {
         "topics": [
           {
-            "name": "Introduction to Python",
+            "name": "Introduction to C#",
             "resources": [
               {
-                "title": "Python.org",
-                "url": "https://www.python.org/"
+                "title": "Microsoft Docs - C# Guide",
+                "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
               },
               {
-                "title": "W3Schools Python Tutorial",
-                "url": "https://www.w3schools.com/python/"
+                "title": "W3Schools - C# Tutorial",
+                "url": "https://www.w3schools.com/cs/"
               }
             ]
           },
           {
-            "name": "Data Types",
+            "name": "C# Basics",
             "resources": [
               {
-                "title": "Real Python - Python Data Types: A Practical Guide",
-                "url": "https://realpython.com/python-data-types/"
+                "title": "C-sharpcorner - C# Fundamentals",
+                "url": "https://www.c-sharpcorner.com/technologies/c-sharp-fundamentals"
               },
               {
-                "title": "Python Documentation - Built-in Types",
-                "url": "https://docs.python.org/3/library/stdtypes.html"
+                "title": "TutorialsTeacher - C# Tutorial",
+                "url": "https://www.tutorialsteacher.com/csharp/csharp-tutorials"
               }
             ]
           },
           {
-            "name": "Control Flow",
+            "name": "Object-Oriented Programming in C#",
             "resources": [
               {
-                "title": "GeeksforGeeks - Python | Decision Making (if, if-elif, else)",
-                "url": "https://www.geeksforgeeks.org/python-decision-making-elif-else-nested-elif/"
+                "title": "GeeksforGeeks - Object-Oriented Programming in C#",
+                "url": "https://www.geeksforgeeks.org/object-oriented-programming-in-c-sharp/"
               },
               {
-                "title": "Python Control Flow - if statements",
-                "url": "https://www.python-course.eu/python3_conditional_statements.php"
+                "title": "C-sharpcorner - C# Classes and Objects",
+                "url": "https://www.c-sharpcorner.com/UploadFile/mahesh/c-sharp-classes-and-objects/"
               }
             ]
           },
           {
-            "name": "Functions",
+            "name": "Advanced C# Features",
             "resources": [
               {
-                "title": "Real Python - Defining Your Own Python Function",
-                "url": "https://realpython.com/defining-your-own-python-function/"
+                "title": "Pluralsight - Advanced C# Programming",
+                "url": "https://www.pluralsight.com/courses/c-sharp-advanced"
               },
               {
-                "title": "Python.org - Defining Functions",
-                "url": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions"
+                "title": "CodeProject - C# Advanced Concepts",
+                "url": "https://www.codeproject.com/KB/cs/advancedconceptsincsharp.aspx"
               }
             ]
           },
           {
-            "name": "Object-Oriented Programming (OOP)",
+            "name": "C# Design Patterns",
             "resources": [
               {
-                "title": "Real Python - Object-Oriented Programming (OOP) in Python 3",
-                "url": "https://realpython.com/python3-object-oriented-programming/"
+                "title": "Dofactory - C# Design Patterns",
+                "url": "https://www.dofactory.com/net/design-patterns"
               },
               {
-                "title": "Python.org - Classes",
-                "url": "https://docs.python.org/3/tutorial/classes.html"
+                "title": "Guru99 - C# Design Patterns",
+                "url": "https://www.guru99.com/c-sharp-design-patterns.html"
+              }
+            ]
+          },
+          {
+            "name": "Asynchronous Programming in C#",
+            "resources": [
+              {
+                "title": "Microsoft Docs - Asynchronous Programming",
+                "url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/"
+              },
+              {
+                "title": "C# Corner - Asynchronous Programming in C#",
+                "url": "https://www.c-sharpcorner.com/article/c-sharp-corner-async-programming/"
+              }
+            ]
+          },
+          {
+            "name": "C# Collections and LINQ",
+            "resources": [
+              {
+                "title": "Tutorialsteacher - C# Collections",
+                "url": "https://www.tutorialsteacher.com/csharp/csharp-collection"
+              },
+              {
+                "title": "Microsoft Docs - LINQ",
+                "url": "https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/"
+              }
+            ]
+          },
+          {
+            "name": "Web Development with ASP.NET Core",
+            "resources": [
+              {
+                "title": "Microsoft Docs - ASP.NET Core",
+                "url": "https://docs.microsoft.com/en-us/aspnet/core/"
+              },
+              {
+                "title": "C# Corner - ASP.NET Core Tutorials",
+                "url": "https://www.c-sharpcorner.com/technologies/aspnet-core"
               }
             ]
           }
