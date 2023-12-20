@@ -8,70 +8,136 @@ const PHP = () => {
   
   const PHPTopics = () => {
     const phpData = {
-      "python": {
+      "php": {
         "topics": [
           {
-            "name": "Introduction to Python",
+            "name": "Introduction to PHP",
             "resources": [
               {
-                "title": "Python.org",
-                "url": "https://www.python.org/"
+                "title": "PHP.net - Getting Started",
+                "url": "https://www.php.net/manual/en/getting-started.php"
               },
               {
-                "title": "W3Schools Python Tutorial",
-                "url": "https://www.w3schools.com/python/"
+                "title": "W3Schools - PHP Tutorial",
+                "url": "https://www.w3schools.com/php/"
               }
             ]
           },
           {
-            "name": "Data Types",
+            "name": "PHP Basics",
             "resources": [
               {
-                "title": "Real Python - Python Data Types: A Practical Guide",
-                "url": "https://realpython.com/python-data-types/"
+                "title": "PHP.net - PHP Manual",
+                "url": "https://www.php.net/manual/en/"
               },
               {
-                "title": "Python Documentation - Built-in Types",
-                "url": "https://docs.python.org/3/library/stdtypes.html"
+                "title": "PHP Basics - Tutorialspoint",
+                "url": "https://www.tutorialspoint.com/php/index.htm"
               }
             ]
           },
           {
-            "name": "Control Flow",
+            "name": "Object-Oriented Programming in PHP",
             "resources": [
               {
-                "title": "GeeksforGeeks - Python | Decision Making (if, if-elif, else)",
-                "url": "https://www.geeksforgeeks.org/python-decision-making-elif-else-nested-elif/"
+                "title": "PHP.net - Object-Oriented Programming",
+                "url": "https://www.php.net/manual/en/language.oop5.php"
               },
               {
-                "title": "Python Control Flow - if statements",
-                "url": "https://www.python-course.eu/python3_conditional_statements.php"
+                "title": "GeeksforGeeks - PHP Object-Oriented Programming",
+                "url": "https://www.geeksforgeeks.org/php-object-oriented-programming/"
               }
             ]
           },
           {
-            "name": "Functions",
+            "name": "PHP Web Development (e.g., Laravel, Symfony)",
             "resources": [
               {
-                "title": "Real Python - Defining Your Own Python Function",
-                "url": "https://realpython.com/defining-your-own-python-function/"
+                "title": "Laravel - Official Documentation",
+                "url": "https://laravel.com/docs/8.x"
               },
               {
-                "title": "Python.org - Defining Functions",
-                "url": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions"
+                "title": "Symfony - Official Documentation",
+                "url": "https://symfony.com/doc/current/index.html"
               }
             ]
           },
           {
-            "name": "Object-Oriented Programming (OOP)",
+            "name": "MySQL Database Integration with PHP",
             "resources": [
               {
-                "title": "Real Python - Object-Oriented Programming (OOP) in Python 3",
-                "url": "https://realpython.com/python3-object-oriented-programming/"
+                "title": "PHP.net - MySQLi Extension",
+                "url": "https://www.php.net/manual/en/book.mysqli.php"
               },
               {
-                "title": "Python.org - Classes",
-                "url": "https://docs.python.org/3/tutorial/classes.html"
+                "title": "PHP and MySQL - W3Schools",
+                "url": "https://www.w3schools.com/php/php_mysql_intro.asp"
+              }
+            ]
+          },
+          {
+            "name": "PHP Security Best Practices",
+            "resources": [
+              {
+                "title": "PHP Security - OWASP",
+                "url": "https://cheatsheetseries.owasp.org/cheatsheets/PHP_Security_Cheat_Sheet.html"
+              },
+              {
+                "title": "PHP Security Guide - PHP.net",
+                "url": "https://www.php.net/manual/en/security.php"
+              }
+            ]
+          },
+          // Add more topics and resources here...
+          {
+            "name": "RESTful API Development with PHP",
+            "resources": [
+              {
+                "title": "Slim Framework - Official Documentation",
+                "url": "https://www.slimframework.com/docs/v4/"
+              },
+              {
+                "title": "Building RESTful APIs with PHP - SitePoint",
+                "url": "https://www.sitepoint.com/build-restful-api-using-php-slim-mysql/"
+              }
+            ]
+          },
+          {
+            "name": "PHP Testing (e.g., PHPUnit)",
+            "resources": [
+              {
+                "title": "PHPUnit - Official Documentation",
+                "url": "https://phpunit.de/getting-started/phpunit-10.html"
+              },
+              {
+                "title": "Testing PHP Applications - Symfony",
+                "url": "https://symfony.com/doc/current/testing.html"
+              }
+            ]
+          },
+          {
+            "name": "PHP Composer - Dependency Manager for PHP",
+            "resources": [
+              {
+                "title": "Composer - Official Documentation",
+                "url": "https://getcomposer.org/doc/"
+              },
+              {
+                "title": "Packagist - PHP Package Repository",
+                "url": "https://packagist.org/"
+              }
+            ]
+          },
+          {
+            "name": "PHP CMS (e.g., WordPress)",
+            "resources": [
+              {
+                "title": "WordPress - Official Documentation",
+                "url": "https://developer.wordpress.org/"
+              },
+              {
+                "title": "Building a WordPress Theme from Scratch - Tuts+",
+                "url": "https://code.tutsplus.com/series/building-a-wordpress-theme-from-scratch--wp-33888"
               }
             ]
           }
